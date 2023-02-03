@@ -9,7 +9,7 @@
   position: fixed;
   width: 28rem;
   height: max-content;
-  right: calc(50% - 13rem);
+  right: calc(50% - 14rem);
   top: 25%;
   background: var(--prime-light-color);
   border: 0.05rem solid var(--box-border);
