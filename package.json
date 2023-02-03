@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vue-cli": "^2.9.6",
+    "vuetify": "^2.6.14"
+  }
+}
