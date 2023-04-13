@@ -119,11 +119,11 @@ export default {
     }
   },
   mounted () {
-    const arrayString = localStorage.getItem('array')
-    if (arrayString) {
-      const array = JSON.parse(arrayString)
-      this.tableBody = array
-    }
+    // const arrayString = localStorage.getItem('array')
+    // if (arrayString) {
+    //   const array = JSON.parse(arrayString)
+    //   this.tableBody = array
+    // }
   }
 }
 </script>
