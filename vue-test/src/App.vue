@@ -22,17 +22,17 @@ body {
 
 <template>
   <div id="app">
-    <AppLayout tableData="tableData" />
+    <AppContent tableData="tableData" />
   </div>
 </template>
 
 <script>
-import AppLayout from './components/AppLayout.vue'
+import AppContent from './components/AppContent.vue'
 
 export default {
   name: 'App',
   components: {
-    AppLayout
+    AppContent
   }
 }
 </script>

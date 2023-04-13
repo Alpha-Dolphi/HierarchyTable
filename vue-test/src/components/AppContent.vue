@@ -50,7 +50,7 @@ import AppTable from './AppTable.vue'
 import AppForm from './AppForm.vue'
 
 export default {
-  name: 'AppLayout',
+  name: 'AppContent',
   components: {
     AppTable,
     AppForm
